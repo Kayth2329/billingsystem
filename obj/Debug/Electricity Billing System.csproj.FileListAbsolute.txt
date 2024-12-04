@@ -1,0 +1,14 @@
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\bin\Debug\Electricity Billing System.exe.config
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\bin\Debug\Electricity Billing System.exe
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\bin\Debug\Electricity Billing System.pdb
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity Billing System.csproj.AssemblyReference.cache
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity Billing System.csproj.SuggestedBindingRedirects.cache
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity_Billing_System.Dashboard.resources
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity_Billing_System.Form1.resources
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity_Billing_System.Properties.Resources.resources
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity Billing System.csproj.GenerateResource.cache
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity Billing System.csproj.CoreCompileInputs.cache
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity Billing System.exe
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity Billing System.pdb
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity_Billing_System.Print.resources
+C:\Users\charisse ann ramirez\source\repos\Electricity Billing System\obj\Debug\Electricity_Billing_System.FPform.resources
